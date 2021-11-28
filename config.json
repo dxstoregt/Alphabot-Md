@@ -2,6 +2,6 @@
   "ownerNumber": ["62887435047326@s.whatsapp.net"],
   "botName": "AlphabotMD",
   "message" : "62887435047326",
-  "sessionName": "session",
+  "sessionName": "session.json",
   "pathImg": "./media/lol.jpg"
 }
